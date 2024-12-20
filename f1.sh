@@ -7,7 +7,7 @@ else
  echo "the file '$filename' does not exist."
 fi
 
-#!/bin/bash
+#!/bin/bash 
 
 # Salary-based tax calculation
 echo "Enter your salary:"
