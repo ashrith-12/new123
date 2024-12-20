@@ -8,6 +8,7 @@ else
 fi
 
 #!/bin/bash 
+#
 
 # Salary-based tax calculation
 echo "Enter your salary:"
