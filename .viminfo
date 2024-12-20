@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1734711162,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,17 +25,27 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/.git/COMMIT_EDITMSG
-|4,48,2,0,1734710488,"~/.git/COMMIT_EDITMSG"
+'0  13  0  ~/.git/COMMIT_EDITMSG
+|4,48,13,0,1734711162,"~/.git/COMMIT_EDITMSG"
+'1  2  0  ~/.git/COMMIT_EDITMSG
+|4,49,2,0,1734710488,"~/.git/COMMIT_EDITMSG"
+'2  2  0  ~/.git/COMMIT_EDITMSG
+|4,50,2,0,1734710488,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  13  0  ~/.git/COMMIT_EDITMSG
+|4,39,13,0,1734711162,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1734711101,"~/.git/COMMIT_EDITMSG"
 -'  2  0  ~/.git/COMMIT_EDITMSG
 |4,39,2,0,1734710488,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1734710474,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1734710474,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1734710483	0
-	"	2	0
+	*	1734711154	0
+	"	13	0
